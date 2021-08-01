@@ -1,0 +1,5 @@
+pandas
+websocket-client
+selenium
+git+https://github.com/StreamAlpha/tvdatafeed.git
+influxdb-client[ciso]
